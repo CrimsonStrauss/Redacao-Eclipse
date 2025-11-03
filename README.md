@@ -27,7 +27,7 @@
 ## 🌐 Como Usar
 
 ### 1️⃣ Acesso via Site 
-Acesse [crimsonzerohub.xyz](https://crimsonzerohub.xyz/redacao) e use a interface web completa.
+Acesse [crimsonzerohub.xyz/redacao](https://crimsonzerohub.xyz/redacao) e use a interface web completa.
 
 ### 2️⃣ Login
 - Insira seu **RA** e **Senha**
