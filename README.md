@@ -40,7 +40,7 @@ Acesse [crimsonzerohub.xyz/redacao](https://crimsonzerohub.xyz/redacao) e use a 
 
 ### 4️⃣ Inicie o Processo
 - Clique em **"Salvar como Rascunho"**
-- Aguarde a geração automática (~1 minuto por redação)
+- Aguarde a geração automática
 - Acompanhe o progresso em tempo real
 
 ### 5️⃣ Revise e Finalize
@@ -68,13 +68,6 @@ Acesse [crimsonzerohub.xyz/redacao](https://crimsonzerohub.xyz/redacao) e use a 
 - Argumentação natural
 - Variações para soar humano
 - Sem cópias de fontes externas
-
-### ⚡ Processamento
-- **Local (Frontend)**: Roda no seu navegador
-- **Criação**: ~15-30 segundos
-- **Humanização**: ~10-20 segundos  
-- **Salvamento**: ~5-10 segundos
-- **Total**: ~30-60 segundos por redação
 
 ---
 
@@ -105,11 +98,6 @@ Acesse [crimsonzerohub.xyz/redacao](https://crimsonzerohub.xyz/redacao) e use a 
 - Primeira versão para revisar
 - Economize tempo em temas repetitivos
 - **Sempre adicione sua voz pessoal**
-
-### 🚫 Limites Técnicos
-- Máximo **3080 caracteres** (limite da Sala do Futuro)
-- Textos maiores são cortados automaticamente
-- ~1 minuto por redação de processamento
 
 ---
 
